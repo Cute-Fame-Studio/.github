@@ -11,7 +11,7 @@ If you want to join the organization! (Not paid.) you can do so! Contact me via 
 
 
 
-Positions: **Programming, Playtesting, Social Media Manager, And lastly Legal Legal Advisors.**
+Positions: **Programming, Playtesting, Social Media Manager, And lastly Legal Advisors.**
 
 
 ‎ 
