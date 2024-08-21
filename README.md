@@ -16,6 +16,6 @@ Positions: **Programming, Playtesting, Social Media Manager, And lastly Legal Ad
 
 
 ‎ 
-![Logo](https://github.com/Cute-Fame-Studio/ImageDB/blob/9428928b3e29c8a49f6f61ce634e40571e01c5e9/CFA-Images/cutefametitle.png)
+![Logo](https://github.com/Cute-Fame-Studio/ImageDB/blob/main/CFA-Images/cutefametitle.png?raw=true)
 ![Logo](https://github.com/Cute-Fame-Studio/ImageDB/blob/64a28dc26d87d270efc40733b5fd655e73e4b0d5/CFHB-Images/CuteFameHBTitleLogo.png)
 ### - Fame
